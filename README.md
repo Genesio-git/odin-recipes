@@ -1,1 +1,1 @@
-# odin-recipes
+"I made this mini project to learn the basics of HTML"
