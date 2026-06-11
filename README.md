@@ -8,6 +8,8 @@ Página inicial com listagem de receitas que levam a páginas individuais, cada 
 
 🗂️ Estrutura do projeto
 
+
+```
 odin-recipes/
 ├── index.html
 ├── recipes/
@@ -18,6 +20,7 @@ odin-recipes/
     ├── pizzazuda.jpg
     ├── feijoada.jpg
     └── strogonoffzada.jpg
+```
 
 🛠️ Tecnologias utilizadas
 
